@@ -1,0 +1,104 @@
+[
+    {
+        "first_name": "nilufar",
+        "last_name": "sabetghadam",
+        "birthday": "2004-09-29T00:00:00",
+        "code_meli": "9876543213",
+        "student_code": 987652,
+        "courses": [
+            "math",
+            "java",
+            "python",
+            "science"
+        ],
+        "grades": [
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    {
+        "first_name": "jafar",
+        "last_name": "mohamdi",
+        "birthday": "2000-04-05T00:00:00",
+        "code_meli": "1234567895",
+        "student_code": 123478,
+        "courses": [
+            "Cybersecurity",
+            "Machine-Learning",
+            "UX/UI-Design"
+        ],
+        "grades": [
+            14,
+            16,
+            15
+        ]
+    },
+    {
+        "first_name": "leyla",
+        "last_name": "babie",
+        "birthday": "2001-05-06T00:00:00",
+        "code_meli": "9876543216",
+        "student_code": 987325,
+        "courses": [
+            "math2",
+            "physic1",
+            "python",
+            "java"
+        ],
+        "grades": [
+            18.0,
+            19.0,
+            18.0,
+            19.0
+        ]
+    },
+    {
+        "first_name": "nasim",
+        "last_name": "hosinsie",
+        "birthday": "2006-04-08T00:00:00",
+        "code_meli": "9876543218",
+        "student_code": 123489,
+        "courses": [
+            "science",
+            "python",
+            "java"
+        ],
+        "grades": [
+            17.0,
+            20.0,
+            16.0
+        ]
+    },
+    {
+        "first_name": "yasin",
+        "last_name": "yaseri",
+        "birthday": "2008-04-05T00:00:00",
+        "code_meli": "9876543219",
+        "student_code": 123789,
+        "courses": [
+            "math2",
+            "geology"
+        ],
+        "grades": [
+            17.0,
+            18.0
+        ]
+    },
+    {
+        "first_name": "nima",
+        "last_name": "rostami",
+        "birthday": "2001-08-09T00:00:00",
+        "code_meli": "9876543210",
+        "student_code": 123450,
+        "courses": [
+            "c++",
+            "AI"
+        ],
+        "grades": [
+            17.0,
+            18.0
+        ]
+    }
+]
